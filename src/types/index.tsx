@@ -12,7 +12,7 @@ export interface ExperienceItem {
   description: string;
 }
 
-export interface Project {
+export interface ProjectItem {
   id: number;
   title: string;
   description: string;
